@@ -17,7 +17,7 @@ void insertData();
 void updateData();
 
 int programs  = 0;
-    FILE *fptr;
+  
 
 int main(){
     do
